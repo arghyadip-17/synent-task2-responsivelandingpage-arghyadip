@@ -16,6 +16,7 @@ It includes:
 * CTA (Call to Action)
 * Responsive navigation bar
 * Footer
+<img width="1897" height="896" alt="image" src="https://github.com/user-attachments/assets/a2f2dfac-0179-4b29-aae9-393aa3ab73ac" />
 
 ---
 
