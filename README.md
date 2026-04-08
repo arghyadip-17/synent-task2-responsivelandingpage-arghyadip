@@ -42,7 +42,7 @@ It includes:
 ## 📂 Project Structure
 
 ```
-/project-folder
+synent-task2-responsivelandingpage-arghyadip/
 │── index.html
 │── style.css
 │── README.md
